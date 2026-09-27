@@ -40,3 +40,32 @@ Type an answer to each question and press Enter.
 > Then print a short student profile.
 
 **What did you change?** No manual changes have been made to the AI-generated code.
+
+
+
+
+
+
+## Week 02: Grade Calculator
+
+The program asks for student names and scores, calculates letter grades, and shows the total number of students and the average score.
+
+### Run the program
+
+With Python 3 installed, open a terminal in this repository's main folder and run:
+
+```sh
+python week02/grade_calculator.py
+```
+
+### AI assistance
+
+**AI Tool Used:** ChatGPT
+
+**Prompt Used:**
+
+> Create a Python grade calculator using while True, break, and continue. Ask for student names and scores, validate scores from 0 to 100, calculate letter grades, and show the total number of students and average score.
+
+**What did you change?** I changed the code to match the assignment requirements. I also tested the program with valid and invalid scores.
+
+**What does break do in your program?** Break stops the loop when the user enters q.
