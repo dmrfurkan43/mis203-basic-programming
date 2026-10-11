@@ -91,3 +91,36 @@ Age 65, weekday, student no → 100.00 TRY (Senior)
 Why does the order of the rules matter?
 
 The order matters because only one discount should be applied. For example, a 10-year-old student should get the Child discount, not the Student discount, because the Child rule comes first.
+
+
+
+
+## Week 04 - Restaurant Order System
+
+## Surprise Me Assignment - Restaurant Order System
+
+### Project Description
+This project is a simple restaurant order system written in Python. Users can choose food and drinks from a menu, enter quantities, and calculate the total price. The program gives a 10% discount when the subtotal is 1000 TRY or more.
+
+### Features
+- Displays a restaurant menu.
+- Allows users to select items and enter quantities.
+- Calculates item prices and the total amount.
+- Gives a 10% discount on orders of 1000 TRY or more.
+- Generates a random order number.
+- Displays the order date and time.
+- Shows the order summary and final price.
+
+### Libraries Used
+- `random`: Generates a random order number.
+- `datetime`: Displays the order date and time.
+
+### How to Run
+Run the following command in the terminal:
+
+```bash
+python restaurant_order_system.py
+```
+
+### AI Tool Used
+OpenAI ChatGPT
