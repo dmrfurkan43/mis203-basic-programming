@@ -115,12 +115,5 @@ This project is a simple restaurant order system written in Python. Users can ch
 - `random`: Generates a random order number.
 - `datetime`: Displays the order date and time.
 
-### How to Run
-Run the following command in the terminal:
-
-```bash
-python restaurant_order_system.py
-```
-
 ### AI Tool Used
 OpenAI ChatGPT
